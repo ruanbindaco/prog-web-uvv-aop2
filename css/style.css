@@ -107,3 +107,9 @@ footer .footer-items {
   font-family: 20px;
   padding: 24px 0;
 }
+
+.img-dicas {
+  display: flex;
+  justify-content: center;
+  padding-top: 64px;
+}
